@@ -1,4 +1,4 @@
-# Makefile — Mini-UnionFS (Member 1)
+# Makefile
 # Compiles all four source files into a single binary.
 
 CC      = gcc
