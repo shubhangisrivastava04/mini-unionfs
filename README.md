@@ -213,8 +213,8 @@ Instead:
 | Member | Responsibility |
 |---|---|
 | Siri Basavaraj | Core filesystem setup, path resolution, FUSE integration |
-| Shubhangi Srivastava | Read operations and directory merging |
-| Shuchika Joy | Write operations and Copy-on-Write engine |
+| Shuchika Joy | Read operations and directory merging |
+| Shubhangi Srivastava | Write operations and Copy-on-Write engine |
 | Sinchana Rathnakar | Delete operations and whiteout handling |
 
 ---
